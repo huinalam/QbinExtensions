@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>huinalam@gmail.com</Authors>
   </PropertyGroup>
 
 </Project>
